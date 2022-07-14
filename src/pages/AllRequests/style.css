@@ -1,0 +1,30 @@
+.requestListContainer{
+    padding:5em 1em 3em 1em;
+    background-image: url('../../assets/background.jpg');
+   color: #FFF;
+    min-height: 100vh;
+    
+}
+.requestListInnerContainer{
+    width: 90%;
+    max-width: 80em;
+}
+.requestListInnerContainer input{
+    width: 98%;
+    justify-content: center;
+    background-color: #FFF;
+    border-radius: 5px;
+}
+
+.card{
+    height: 17em;
+    padding: 1em;
+    border: 5px solid #002664 ;
+    border-radius: 10px;
+    background-color: #FFF;
+    color: #002664;
+}
+
+.card h2,h3,h4,h5{
+    margin: 0;
+}

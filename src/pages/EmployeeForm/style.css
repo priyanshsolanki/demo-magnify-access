@@ -1,0 +1,19 @@
+.employeeFormContainer{
+    padding:5em 1em 3em 1em;
+    /* background:#207077; */
+    color:#FFF;
+    background-image: url('../../assets/background.jpg');
+    min-height:100vh;
+}
+.formContainer{
+    padding-top: 2em;
+    width: 100%;
+    max-width: 50em;
+}
+
+.formContainer input{
+    width: 98%;
+    justify-content: center;
+    background-color: #FFF;
+    border-radius: 5px;
+}
